@@ -2,4 +2,5 @@
 Learning GitHub
 
 ## About
-This is my first GitHub repository
+This is my first GitHub repository for learning version control and GitHub
+
